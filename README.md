@@ -1,4 +1,5 @@
 Ambassador API Gateway [![Build Status][build-status]][build-pages] [![Docker Repository][docker-latest]][docker-repo] ![Docker Pulls][docker-pulls] [![Join Slack][slack-join]][slack-url]
+
 ==========
 
 [build-pages]:   https://travis-ci.org/datawire/ambassador
